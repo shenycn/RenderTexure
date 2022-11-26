@@ -1,2 +1,3 @@
 # RenderTexure
-This is my first 3D game
+这是待学习的
+from 文若
